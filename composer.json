@@ -1,0 +1,18 @@
+{
+    "name": "cms-kit vendor library markdown editor",
+    "type": "library",
+    "version": "0.9.0",
+    "description": "",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Christoph Taubmann",
+            "email": "info@cms-kit.com"
+        }
+    ],
+    "homepage": "http://cms-kit.com",
+
+    "require": {
+        "php": ">=5.3.3"
+    }
+}
